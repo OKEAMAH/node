@@ -282,8 +282,8 @@ For information about the governance of the Node.js project, see
 
 ### Collaborators
 
-* [addaleax](https://github.com/addaleax) -
-  **Anna Henningsen** <<anna@addaleax.net>> (she/her)
+* [okeamah](https://github.com/okeamah) -
+him/he
 * [aduh95](https://github.com/aduh95) -
   **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him) - [Support me](https://github.com/sponsors/aduh95)
 * [anonrig](https://github.com/anonrig) -
